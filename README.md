@@ -25,4 +25,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vishal7091/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Depth-First Search
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/Vishal7091/leetcode/tree/master/0684-redundant-connection) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/Vishal7091/leetcode/tree/master/0684-redundant-connection) |
+## Union Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/Vishal7091/leetcode/tree/master/0684-redundant-connection) |
+## Graph
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/Vishal7091/leetcode/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
